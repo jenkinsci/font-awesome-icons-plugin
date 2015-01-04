@@ -1,0 +1,5 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This plugin defines a Jenkins icon theme implementation for the
+  <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a> scalable vector icons.
+</div>
